@@ -1,7 +1,7 @@
 <div align="right">
 
-  [![license](https://img.shields.io/github/license/block-foundation/docker-matrix-synapse?color=green&label=license&style=flat-square)](LICENSE.md)
-  ![stars](https://img.shields.io/github/stars/block-foundation/docker-matrix-synapse?color=blue&label=stars&style=flat-square)
+[![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/block-foundation/docker-matrix-synapse/blob/main/LICENSE)
+[![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/block-foundation/docker-matrix-synapse)
 
 </div>
 
@@ -15,13 +15,30 @@
 
 ---
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-containers.jpg"width="100%" height="100%" alt="Block Foundation Containers">
-</p>
+<img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-containers.jpg"  alt="Block Foundation Containers">
+
+### Contents
+
+- [Introduction](#introduction)
+- [Colophon](#colophon)
+
+<br clear="both"/>
+
+---
+
+<div align="right">
+
+[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/docker-matrix-synapse/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=bug_report.yml)
+[![Request a Feature](https://img.shields.io/badge/Request%20a%20Feature-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/docker-matrix-synapse/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=feature_request.yml)
+[![Ask a Question](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/docker-matrix-synapse/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=question.yml)
+[![Make a Suggestion](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/docker-matrix-synapse/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=suggestion.yml)
+[![Start a Discussion](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/docker-matrix-synapse/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=discussion.yml)
+
+</div>
+
+**Welcome to the Block Foundation's Matrix Synapse Docker Image Repository! This project exemplifies our commitment to fostering open-source technologies and innovative solutions for decentralized communication.**
 
 ## Introduction
-
-Welcome to the Block Foundation's Matrix Synapse Docker Image Repository! This project exemplifies our commitment to fostering open-source technologies and innovative solutions for decentralized communication.
 
 If you're not yet familiar, Matrix is an open network for secure, decentralized communication, and Synapse is its reference implementation. Docker, on the other hand, is a tool designed to ease the process of developing, shipping, and running applications by using containerization. This repository provides a Docker image specifically designed for a seamless operation of a Matrix Synapse server.
 
@@ -31,13 +48,13 @@ Within this repository, you will find detailed instructions on how to deploy and
 
 By developing this resource, we're aiming to remove barriers to entry in the realm of decentralized communication. This effort goes hand in hand with our larger mission of using blockchain technology to revolutionize the architectural and real estate sectors.
 
-We are excited to share this project with you and look forward to seeing how it empowers your explorations in decentralized communication. We believe that every contribution, regardless of its size, brings us one step closer to our shared goal of creating a more inclusive, sustainable, and innovative future. Thank you for your valuable participation in the Block Foundation community!
-
 ## Resources
 
-https://github.com/matrix-org/synapse
+- https://github.com/matrix-org/synapse
 
-## Development
+---
+
+## Colophon
 
 ### Authors
 
@@ -47,25 +64,27 @@ The Block Foundation mission is enabling architects to take back initiative and 
 
 website: [www.blockfoundation.io](https://www.blockfoundation.io "Block Foundation website")
 
-### Contributing
+### Development Resources
+
+#### Contributing
 
 We'd love for you to contribute and to make this project even better than it is today!
 Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
 
-## Legal Information
+### Legal Information
 
-### Copyright
+#### Copyright
 
-Copyright &copy; 2023 [Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
+Copyright &copy; 2023 [Stichting Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
 
-### License
+#### License
 
 Except as otherwise noted, the content in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
-code samples are licensed under the [MIT License](https://opensource.org/license/mit/).
+code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
-Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/LICENSE-CODE).
+Also see [LICENSE](https://github.com/block-foundation/community/blob/master/src/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/src/LICENSE-CODE).
 
-### Disclaimer
+#### Disclaimer
 
 **THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
