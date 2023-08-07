@@ -1,9 +1,14 @@
 <div align="right">
 
-[![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/block-foundation/docker-matrix-synapse/blob/main/LICENSE)
-[![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/block-foundation/docker-matrix-synapse)
+[![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/block-foundation/brand/blob/main/LICENSE)
+[![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/block-foundation/brand)
+[![Docker Pulls](https://img.shields.io/docker/pulls/blockfoundation/matrix-synapse?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Pulls:&labelColor=%23041B26&color=%23041B26)](https://hub.docker.com/r/blockfoundation/matrix-synapse)
+[![Docker Stars](https://img.shields.io/docker/stars/blockfoundation/matrix-synapse?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Stars:&labelColor=%23041B26&color=%23041B26)](https://hub.docker.com/r/blockfoundation/matrix-synapse)
+[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/blockfoundation/matrix-synapse?sort=semver&style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Version:&labelColor=%23041B26&color=%23041B26)](https://hub.docker.com/r/blockfoundation/matrix-synapse/tags)
+[![Docker Size](https://img.shields.io/docker/image-size/blockfoundation/matrix-synapse/latest?style=flat-square&logo=docker&logoColor=%23FFFFFF&label=Size:&labelColor=%23041B26&color=%23041B26)](https://hub.docker.com/r/blockfoundation/matrix-synapse)
 
 </div>
+
 
 ---
 
