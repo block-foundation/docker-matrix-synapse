@@ -49,10 +49,6 @@ If you're not yet familiar, Matrix is an open network for secure, decentralized 
 
 This Matrix Synapse Docker image is designed with the aim to enhance accessibility, maintainability, and security of decentralized communication networks. By utilizing Docker's power, this pre-configured environment streamlines the process of setting up your own Matrix Synapse server, making it accessible even to those who are new to Matrix.
 
-Within this repository, you will find detailed instructions on how to deploy and operate the Docker image, as well as the Dockerfile used for building the image itself. We strongly encourage the community to use this Docker image, contribute to its continuous development, and share their experience and insights to make it better.
-
-By developing this resource, we're aiming to remove barriers to entry in the realm of decentralized communication. This effort goes hand in hand with our larger mission of using blockchain technology to revolutionize the architectural and real estate sectors.
-
 ## Resources
 
 - https://github.com/matrix-org/synapse
